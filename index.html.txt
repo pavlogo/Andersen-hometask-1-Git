@@ -20,7 +20,7 @@
     </div>
 
     <footer>
-        Made with ¦ @ Udacity
+        ,,,,,,,,,,,,,,,\\\\\\\\\\\\............,,,,,,,,
  <section>
         <h3 class="visuallyhidden">Social Links</h3>
         <a class="social-link" href="https://twitter.com/udacity">
